@@ -5,7 +5,7 @@ export default defineConfig({
   timeout: 30 * 1000,
   use: {
     baseURL: 'https://www.saucedemo.com/',
-    headless: false, // turn off browser
+    headless: true, // turn off browser
     screenshot: 'only-on-failure',
     video: 'retain-on-failure',
   },
