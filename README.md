@@ -6,7 +6,7 @@ https://www.saucedemo.com/
 
 The tests cover essential end-to-end flows such as login, product browsing, cart operations, and checkout.
 
-🔁 CI/CD Automation
+🔁 Continuous Integration
 
 Tests run automatically on GitHub Actions whenever you push to the main branch.
 
@@ -74,7 +74,7 @@ Open Playwright HTML report
 npx playwright show-report
 ```
 
-📊 Generate Allure Report
+## 📊 Generate Allure Report
 1. Run tests
 ```bash
 npx playwright test
@@ -93,7 +93,7 @@ npx playwright test
 ~\scoop\apps\allure\current\bin\allure.bat open
 ```
 
-🎨 Code Formatting (Prettier)
+## 🎨 Code Formatting (Prettier)
 ```bash
 npm run format
 ```
