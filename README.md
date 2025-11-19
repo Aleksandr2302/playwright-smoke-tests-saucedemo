@@ -10,7 +10,7 @@ The tests cover essential end-to-end flows such as login, product browsing, cart
 
 Tests run automatically on GitHub Actions whenever you push to the main branch.
 
-[![Playwright Tests](https://github.com/Aleksandr2302/playwright-smoke-tests-saucedemo/actions/workflows/playwright-tests.yml/badge.svg)](https://github.com/Aleksandr2302/playwright-smoke-tests-saucedemo/actions/workflows/playwright-tests.yml)
+[![Playwright Tests](https://github.com/Aleksandr2302/playwright-smoke-tests-saucedemo/actions/workflows/playwright-tests.yml/badge.svg)](https://github.com/Aleksandr2302/playwright-smoke-tests-saucedemo/actions/workflows/ci.yml)
 
 ## 📁 Project Structure
 
